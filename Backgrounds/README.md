@@ -1,7 +1,7 @@
 
 # BACKGROUNDS
 
-![Tux_Paint](https://github.com/user-attachments/assets/acbb3c8a-8533-4231-b0d0-e13089317eba)
+![RobiTux](https://github.com/user-attachments/assets/3cddc227-f3a4-4a15-b9ee-8ca6119f5f44)
 
 
 It seems you want to add more life to your OS, uh?
