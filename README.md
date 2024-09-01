@@ -1,11 +1,11 @@
 
-# CUSTOM LINUX
+# CUSTOMIZE LINUX GUI
 
 ![RobiTux](https://github.com/user-attachments/assets/41134831-3523-49e0-98c5-278953c17547)
 
 WELCOME TO MY REPOSITORY!
 
-Here you will find more and more content to CUSTOMIZE YOUR LINUX!
+Here you will find more and more content to PERSONALIZE YOUR LINUX GUI !
 
 P.S.: I'm working on a tool!
 
