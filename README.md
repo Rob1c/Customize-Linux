@@ -1,5 +1,5 @@
 
-# CUSTOMIZE LINUX GUI
+# PERSONALIZE LINUX
 
 ![RobiTux](https://github.com/user-attachments/assets/41134831-3523-49e0-98c5-278953c17547)
 
