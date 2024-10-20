@@ -5,8 +5,8 @@
 
 
 
-## These backgrounds are created for real, proud Linux users.
-## Use it at your own risk!
+ These backgrounds are created for real, proud Linux users.
+ Use it at your own risk!
 
 
 
